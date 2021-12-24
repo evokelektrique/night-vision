@@ -1,11 +1,12 @@
 <div align="center">
    <br>
    <img src="./night-vision.png" alt="Night Vision" />
-   <br>
-   <br>
    <h3>NightVision</h3>
    <p>(Under development)</p>
 </div>
+
+<br>
+<br>
 
 List of supported services or APIs with their examples:
 
