@@ -1,8 +1,9 @@
 <div align="center">
    <br>
-   <b>NightVision</b>
+   <img src="./night-vision.png" alt="Night Vision" />
    <br>
    <br>
+   <h3>NightVision</h3>
    <p>(Under development)</p>
 </div>
 
